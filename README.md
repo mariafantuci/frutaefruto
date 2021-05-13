@@ -12,3 +12,7 @@ bloco__elemento--modificador
 
 read more about it
 http://getbem.com/introduction/
+
+/*
+* atalho No Windows Shift+ Alt + F
+*/
