@@ -164,5 +164,14 @@
     margin: 0 auto;
     border-radius: 100%;
     background-repeat: no-repeat;
-    
+}
+
+/*======Rodapé======*/
+.footer{
+    background: #e5e5e5;
+    color: #1a1818e8;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+    font-weight: bold;
 }
